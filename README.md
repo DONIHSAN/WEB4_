@@ -93,15 +93,13 @@ Kemudian tambahkan style pada CSS.
 
 ***Output :***
 
-![](screenshot/ss15.png)
+![](screenshot/ss21.png)
 
+## 2. Membuat HTML dan CSS Seperti berikut :
 
+***Output :***
 
-
-
-
-
-
+![](screenshot/ss16.png)
 
 
 
