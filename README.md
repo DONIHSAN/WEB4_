@@ -1,4 +1,4 @@
-# Tugas Praktikum { Pertemuan ke 5 } <img src=https://w0.peakpx.com/wallpaper/214/158/HD-wallpaper-html5-logo-white-silk-texture-html5-emblem-programming-language-html-silk-background.jpg width="120px" >
+# Tugas Praktikum { Pertemuan ke 5 } <img src=https://velog.velcdn.com/images/azd2013/post/affad795-9595-4c2b-bad0-efea305cf9ad/image.jpg width="125px" height="80px" >
 
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
