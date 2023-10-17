@@ -53,7 +53,17 @@ Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
 
 ![](screenshot/ss9.png)
 
-# Kelongkap 1 soal yaa
+## Menambahkan Elemen Lainnya Pada Main Content
+
+![](screenshot/ss17.png)
+
+Kemudian tambahkan style pada CSS.
+
+![](screenshot/ss18.png)
+
+***Output :***
+
+![](screenshot/ss20.png)
 
 ## Menambahkan Content Artikel
 
